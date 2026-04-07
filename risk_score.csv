@@ -1,0 +1,103 @@
+Age,Gender,Income,Education,Marital Status,Number of Children,Home Ownership,Credit Score,Score_Numeric,Risk_Category
+25,Female,50000.0,Bachelor's Degree,Single,0,Rented,High,2,Low Risk
+30,Male,100000.0,Master's Degree,Married,2,Owned,High,2,Low Risk
+35,Female,75000.0,Doctorate,Married,1,Owned,High,2,Low Risk
+40,Male,125000.0,High School Diploma,Single,0,Owned,High,2,Low Risk
+45,Female,100000.0,Bachelor's Degree,Married,3,Owned,High,2,Low Risk
+50,Male,150000.0,Master's Degree,Married,0,Owned,High,2,Low Risk
+26,Female,40000.0,Associate's Degree,Single,0,Rented,Average,1,Medium Risk
+31,Male,60000.0,Bachelor's Degree,Single,0,Rented,Average,1,Medium Risk
+36,Female,80000.0,Master's Degree,Married,2,Owned,High,2,Low Risk
+41,Male,105000.0,Doctorate,Single,0,Owned,High,2,Low Risk
+46,Female,90000.0,High School Diploma,Married,1,Owned,High,2,Low Risk
+51,Male,135000.0,Bachelor's Degree,Married,0,Owned,High,2,Low Risk
+27,Female,35000.0,High School Diploma,Single,0,Rented,Low,0,High Risk
+32,Male,55000.0,Associate's Degree,Single,0,Rented,Average,1,Medium Risk
+37,Female,70000.0,Bachelor's Degree,Married,2,Owned,High,2,Low Risk
+42,Male,95000.0,Master's Degree,Single,0,Owned,High,2,Low Risk
+47,Female,85000.0,Doctorate,Married,1,Owned,High,2,Low Risk
+52,Male,125000.0,High School Diploma,Married,0,Owned,High,2,Low Risk
+28,Female,30000.0,Associate's Degree,Single,0,Rented,Low,0,High Risk
+33,Male,50000.0,High School Diploma,Single,0,Rented,Average,1,Medium Risk
+38,Female,65000.0,Bachelor's Degree,Married,2,Owned,High,2,Low Risk
+43,Male,80000.0,Master's Degree,Single,0,Owned,High,2,Low Risk
+48,Female,70000.0,Doctorate,Married,1,Owned,High,2,Low Risk
+53,Male,115000.0,Associate's Degree,Married,0,Owned,High,2,Low Risk
+29,Female,25000.0,High School Diploma,Single,0,Rented,Low,0,High Risk
+34,Male,45000.0,Associate's Degree,Single,0,Rented,Average,1,Medium Risk
+39,Female,60000.0,Bachelor's Degree,Married,2,Owned,High,2,Low Risk
+44,Male,75000.0,Master's Degree,Single,0,Owned,High,2,Low Risk
+49,Female,65000.0,Doctorate,Married,1,Owned,High,2,Low Risk
+25,Female,55000.0,Bachelor's Degree,Single,0,Rented,Average,1,Medium Risk
+30,Male,105000.0,Master's Degree,Married,2,Owned,High,2,Low Risk
+35,Female,80000.0,Doctorate,Married,1,Owned,High,2,Low Risk
+40,Male,130000.0,High School Diploma,Single,0,Owned,High,2,Low Risk
+45,Female,105000.0,Bachelor's Degree,Married,3,Owned,High,2,Low Risk
+50,Male,155000.0,Master's Degree,Married,0,Owned,High,2,Low Risk
+26,Female,45000.0,Associate's Degree,Single,0,Rented,Average,1,Medium Risk
+31,Male,65000.0,Bachelor's Degree,Single,0,Rented,Average,1,Medium Risk
+36,Female,85000.0,Master's Degree,Married,2,Owned,High,2,Low Risk
+41,Male,110000.0,Doctorate,Single,0,Owned,High,2,Low Risk
+46,Female,95000.0,High School Diploma,Married,1,Owned,High,2,Low Risk
+51,Male,140000.0,Bachelor's Degree,Married,0,Owned,High,2,Low Risk
+27,Female,37500.0,High School Diploma,Single,0,Rented,Low,0,High Risk
+32,Male,57500.0,Associate's Degree,Single,0,Rented,Average,1,Medium Risk
+37,Female,72500.0,Bachelor's Degree,Married,2,Owned,High,2,Low Risk
+42,Male,100000.0,Master's Degree,Single,0,Owned,High,2,Low Risk
+47,Female,90000.0,Doctorate,Married,1,Owned,High,2,Low Risk
+52,Male,130000.0,High School Diploma,Married,0,Owned,High,2,Low Risk
+28,Female,32500.0,Associate's Degree,Single,0,Rented,Low,0,High Risk
+33,Male,52500.0,High School Diploma,Single,0,Rented,Average,1,Medium Risk
+38,Female,67500.0,Bachelor's Degree,Married,2,Owned,High,2,Low Risk
+43,Male,92500.0,Master's Degree,Single,0,Owned,High,2,Low Risk
+48,Female,82500.0,Doctorate,Married,1,Owned,High,2,Low Risk
+53,Male,122500.0,Associate's Degree,Married,0,Owned,High,2,Low Risk
+29,Female,27500.0,High School Diploma,Single,0,Rented,Low,0,High Risk
+34,Male,47500.0,Associate's Degree,Single,0,Rented,Average,1,Medium Risk
+39,Female,62500.0,Bachelor's Degree,Married,2,Owned,High,2,Low Risk
+44,Male,87500.0,Master's Degree,Single,0,Owned,High,2,Low Risk
+49,Female,77500.0,Doctorate,Married,1,Owned,High,2,Low Risk
+25,Female,57500.0,Bachelor's Degree,Single,0,Rented,Average,1,Medium Risk
+30,Male,112500.0,Master's Degree,Married,2,Owned,High,2,Low Risk
+35,Female,85000.0,Doctorate,Married,1,Owned,High,2,Low Risk
+25,Female,60000.0,Bachelor's Degree,Single,0,Rented,Average,1,Medium Risk
+30,Male,117500.0,Master's Degree,Married,2,Owned,High,2,Low Risk
+35,Female,90000.0,Doctorate,Married,1,Owned,High,2,Low Risk
+40,Male,142500.0,High School Diploma,Single,0,Owned,High,2,Low Risk
+45,Female,110000.0,Bachelor's Degree,Married,3,Owned,High,2,Low Risk
+50,Male,160000.0,Master's Degree,Married,0,Owned,High,2,Low Risk
+26,Female,47500.0,Associate's Degree,Single,0,Rented,Average,1,Medium Risk
+31,Male,67500.0,Bachelor's Degree,Single,0,Rented,Average,1,Medium Risk
+36,Female,90000.0,Master's Degree,Married,2,Owned,High,2,Low Risk
+41,Male,115000.0,Doctorate,Single,0,Owned,High,2,Low Risk
+46,Female,97500.0,High School Diploma,Married,1,Owned,High,2,Low Risk
+51,Male,145000.0,Bachelor's Degree,Married,0,Owned,High,2,Low Risk
+37,Female,75000.0,Bachelor's Degree,Married,2,Owned,High,2,Low Risk
+42,Male,105000.0,Master's Degree,Single,0,Owned,High,2,Low Risk
+47,Female,95000.0,Doctorate,Married,1,Owned,High,2,Low Risk
+52,Male,135000.0,High School Diploma,Married,0,Owned,High,2,Low Risk
+48,Female,85000.0,Doctorate,Married,1,Owned,High,2,Low Risk
+53,Male,125000.0,Associate's Degree,Married,0,Owned,High,2,Low Risk
+25,Female,62500.0,Bachelor's Degree,Single,0,Rented,Average,1,Medium Risk
+45,Female,115000.0,Bachelor's Degree,Married,3,Owned,High,2,Low Risk
+50,Male,162500.0,Master's Degree,Married,0,Owned,High,2,Low Risk
+26,Female,50000.0,Associate's Degree,Single,0,Rented,Average,1,Medium Risk
+31,Male,70000.0,Bachelor's Degree,Single,0,Rented,Average,1,Medium Risk
+36,Female,95000.0,Master's Degree,Married,2,Owned,High,2,Low Risk
+41,Male,120000.0,Doctorate,Single,0,Owned,High,2,Low Risk
+46,Female,102500.0,High School Diploma,Married,1,Owned,High,2,Low Risk
+51,Male,150000.0,Bachelor's Degree,Married,0,Owned,High,2,Low Risk
+37,Female,77500.0,Bachelor's Degree,Married,2,Owned,High,2,Low Risk
+42,Male,110000.0,Master's Degree,Single,0,Owned,High,2,Low Risk
+47,Female,97500.0,Doctorate,Married,1,Owned,High,2,Low Risk
+52,Male,137500.0,High School Diploma,Married,0,Owned,High,2,Low Risk
+43,Male,95000.0,Master's Degree,Single,0,Owned,High,2,Low Risk
+48,Female,87500.0,Doctorate,Married,1,Owned,High,2,Low Risk
+53,Male,127500.0,Associate's Degree,Married,0,Owned,High,2,Low Risk
+28,Male,75000.0,Bachelor's Degree,Single,0,Rented,Average,1,Medium Risk
+33,Female,82000.0,Master's Degree,Married,1,Owned,High,2,Low Risk
+31,Male,95000.0,Doctorate,Single,0,Rented,High,2,Low Risk
+26,Female,55000.0,Bachelor's Degree,Married,1,Owned,Average,1,Medium Risk
+32,Male,85000.0,Master's Degree,Single,0,Rented,High,2,Low Risk
+29,Female,68000.0,Doctorate,Married,2,Owned,Average,1,Medium Risk
+34,Male,105000.0,Bachelor's Degree,Married,1,Rented,High,2,Low Risk
