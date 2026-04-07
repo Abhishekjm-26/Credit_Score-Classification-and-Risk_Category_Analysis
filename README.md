@@ -1,40 +1,51 @@
-# Credit_Score-Classification-and-Risk_Category_Analysis
-Financial institutions struggle to assess risk due to varying credit scores and behaviors.
+# Credit Score Classification and Risk Category Analysis
 
-**Key findings / Insights:**
+<small>
+Financial institutions struggle to assess risk due to varying credit scores and customer behavior.
+</small>
 
-➢ Key Trends
-❑ Majority of individuals fall into a specific dominant risk category
-(based on your countplot output).
-❑ Credit score increases with Income and age.
----------------------------------------------------------------------
-➢ Important Patterns
-❑ Count Plot
-o High Credit Score → Low Risk customer
-o Average Credit Score → Medium Risk customer
-o Low Credit Score → High Risk customer
-❑ Income distribution (boxplot) represents:
-o High score group of customers have higher spread of
-income
-o Low score group is clustered at lower income levels
-❑ Correlation heatmap represents:
-o Income has strong positive correlation with credit score
-o Age has moderate impact
-o Number of children has minimal effect on credit score
----------------------------------------------------------------------
-➢ Business / Domain Insights:
-❑ Income is the strongest indicator of credit worthiness
-❑ Useful for banks during loan approval
-❑ Customers with:
-▪ Low income → High risk
-▪ High income → Low risk
----------------------------------------------------------------------
-➢ 4. Data Driven Conclusions
-❑ The dataset shows a clear relationship between financial stability
-(income) and credit worthiness.
-❑ Credit score categories effectively represent risk levels for financial
-decision-making.
-❑ Income is the most influential factor affecting credit score and risk
-category.
-❑ Individuals with higher income are more likely to fall into low-risk groups.
-----------------------------------------------------------------------
+---
+
+## 📊 Key Findings / Insights
+
+### ➤ Key Trends
+- Majority of individuals fall into a dominant risk category  
+- Credit score increases with **income** and **age**
+
+---
+
+### ➤ Important Patterns
+
+#### 🔹 Count Plot
+- **High Credit Score → Low Risk**
+- **Average Credit Score → Medium Risk**
+- **Low Credit Score → High Risk**
+
+#### 🔹 Income Distribution (Boxplot)
+- High-score customers show a wider income spread  
+- Low-score customers are clustered at lower income levels  
+
+#### 🔹 Correlation Heatmap
+- **Income** → Strong positive correlation with credit score  
+- **Age** → Moderate impact  
+- **Number of Children** → Minimal effect  
+
+---
+
+### ➤ Business / Domain Insights
+- Income is the **strongest indicator** of creditworthiness  
+- Useful for **loan approval decisions**  
+
+**Customer Risk Segmentation:**
+- Low Income → High Risk  
+- High Income → Low Risk  
+
+---
+
+### ➤ Data-Driven Conclusions
+- Strong relationship between **financial stability (income)** and creditworthiness  
+- Credit score categories effectively represent risk levels  
+- Income is the **most influential factor**  
+- Higher income individuals are more likely to be **low-risk customers**
+
+---
